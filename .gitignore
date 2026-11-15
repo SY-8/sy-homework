@@ -1,0 +1,10 @@
+//编辑产物
+build/
+*.o
+*.out
+*.so
+*.a
+//编辑器
+.vscode/
+.idea/
+compile_commands.json
