@@ -12,3 +12,7 @@ compile_commands.json
 homework_2/include/output/
 *.gch
 *.pch
+
+# 无关目录
+.marscode/
+tmp/
