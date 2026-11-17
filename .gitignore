@@ -8,3 +8,7 @@ build/
 .vscode/
 .idea/
 compile_commands.json
+# 编译产物（GCC 预编译头等）
+homework_2/include/output/
+*.gch
+*.pch
